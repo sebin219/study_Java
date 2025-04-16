@@ -1,6 +1,6 @@
-package basic.ch04.sec06;
+package advanced.ch04;
 
-public class DoWhileExample {
+public class number1 {
     public static void main(String[] args) {
         int sum = 0;
         for (int i = 0; i < 100; i++) {
