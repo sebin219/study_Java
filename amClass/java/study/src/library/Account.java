@@ -1,13 +1,22 @@
 package library;
 
 public class Account {
-    try {
-        findClass();
-    } catch(ClassNotFoundException e) {
-        System.out.println("호출한 곳에서 예외 처리함.: " + e.toString());
+    private long balance;
+
+    public Account() { }
+
+    public long getBalance() {
+        return balance;
     }
 
+    public void deposit(int money) {
+        balance += money;
+    }
 
-public static void findClass() throws ClassNotFoundException {
-    Class.forName("java.lang.String2");
-}}
+    public void withdraw(int money) throws InsufficientException {
+        if(balance < money) {
+            throw new InsufficientException("잔고 부족: "+(money-balance)+" 모자람");
+        }
+        balance -= money;
+    }
+}
