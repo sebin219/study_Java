@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b88b060-7a7e-4040-b9bd-3febb6b06386" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/advanced/ch17/sec06/exam01/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/advanced/ch17/sec06/exam01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/advanced/ch17/sec06/exam02/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/advanced/ch17/sec06/exam03/FlatMappingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic/ch17/sec01/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic/ch17/sec03/StreamPipeLineExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic/ch17/sec03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic/ch17/sec04/exam01/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic/ch17/sec04/exam01/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic/ch17/sec04/exam02/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic/ch17/sec04/exam03/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic/ch17/sec05/FilteringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basic/ch17/sec10/AggregateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/generation/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/intermediate/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/intermediate/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/intermediate/Application3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/terminal/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/terminal/Application22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/terminal/Application3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/terminal/Application4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/terminal/Member.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2wncnepm25yQw1tPeg13JWryR70" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.ch12-stream [:advanced.ch17.sec06.exam01.MapExample.main()].executor": "Run",
+    "Gradle.ch12-stream [:lecture.terminal.Application2.main()].executor": "Run",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lecture.intermediate" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application2">
+    <configuration name="Application2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture.terminal.Application2" />
+      <module name="ch12-stream.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lecture.terminal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advanced.ch17.sec06.exam01.MapExample" />
+      <module name="ch12-stream.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advanced.ch17.sec06.exam01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application2" />
+        <item itemvalue="Application.MapExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b88b060-7a7e-4040-b9bd-3febb6b06386" name="Changes" comment="" />
+      <created>1746680949509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746680949509</updated>
+      <workItem from="1746680950271" duration="2257000" />
+      <workItem from="1746683253768" duration="6422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
