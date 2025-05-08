@@ -1,10 +1,9 @@
 package lecture.terminal;
 
-import javax.swing.text.html.Option;
 import java.util.OptionalInt;
 import java.util.stream.IntStream;
 
-public class Application22 {
+class Application2 {
     /*
      * reduce() : 스트림에 있는 데이터들의 총합을 계산
      * */

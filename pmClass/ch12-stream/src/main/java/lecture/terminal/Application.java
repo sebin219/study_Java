@@ -1,29 +1,27 @@
 package lecture.terminal;
 
-import javax.swing.text.html.Option;
+import java.util.Optional;
 import java.util.OptionalInt;
 import java.util.stream.IntStream;
 
-public class Application2 {
-    /*
-     * reduce() : 스트림에 있는 데이터들의 총합을 계산
-     * */
+public class Application {
+
     public static void main(String[] args) {
 
-        OptionalInt reduceOneParam = IntStream.range(1,4)
-                .reduce((a,b) -> {
-                    return Integer.sum(a,b);
-                });
+        /*
+         * Calculating
+         * -> 최소/최대/종합/평균 과 같은 결과
+         * */
 
-        System.out.println("reduceOneParam = " + reduceOneParam);
+        long count = IntStream.range(1,10).count();
+        long sum = IntStream.range(1,10).sum();
 
-        int reduceTwoParam = IntStream.range(1,4)
-                .reduce(100, (a,b) -> { // 100을 기준으로 1,2,3을 더해줌
-                    return Integer.sum(a,b);
-                });
+        System.out.println("count = " + count);
+        System.out.println("sum = " + sum);
 
-        System.out.println("reduceOneParam = " + reduceOneParam);
-
+        // max(), min() 이라는 최종연산 메소드는 해당 스트림이 어떤 작업인지 모르기때문에
+        // 반환형이 Optional이다.
+        OptionalInt max = IntStream.range(1,10).max();
+        OptionalInt min = IntStream.range(1,10).min();
     }
-
 }
