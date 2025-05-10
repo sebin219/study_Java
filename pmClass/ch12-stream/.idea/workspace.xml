@@ -5,31 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b88b060-7a7e-4040-b9bd-3febb6b06386" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/advanced/ch17/sec06/exam01/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/advanced/ch17/sec06/exam01/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/advanced/ch17/sec06/exam02/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/advanced/ch17/sec06/exam03/FlatMappingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic/ch17/sec01/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic/ch17/sec03/StreamPipeLineExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic/ch17/sec03/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic/ch17/sec04/exam01/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic/ch17/sec04/exam01/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic/ch17/sec04/exam02/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic/ch17/sec04/exam03/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic/ch17/sec05/FilteringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basic/ch17/sec10/AggregateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/generation/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/intermediate/Application1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/intermediate/Application2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/intermediate/Application3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/terminal/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/terminal/Application22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/terminal/Application3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/terminal/Application4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/terminal/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/collection2/IteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/collection2/PropertiesExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/collection2/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/collection2/TreeSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/collection2/WinnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/data/CopyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/data/ReadLineExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/data/ReadLineExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/lambda/Calculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/lambda/LambdaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/object/Cal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/object/Cal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/object/CalUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/object/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/object/PhoneUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/object/StaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/stream/AggExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/stream/AverageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/stream/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/stream/SumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/stream2/ArraySame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/stream2/AverageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/stream2/HeightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/stream2/StrList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/stream2/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../amClass/java/study/src/library_gradle/src/main/java/stream2/SumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,23 +63,24 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.ch12-stream [:advanced.ch17.sec06.exam01.MapExample.main()].executor": "Run",
-    "Gradle.ch12-stream [:lecture.terminal.Application2.main()].executor": "Run",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.ch12-stream [:advanced.ch17.sec06.exam01.MapExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.ch12-stream [:lecture.terminal.Application2.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/fullstack/02_Java/study_Java/amClass/java/study/src/library_gradle&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lecture.intermediate" />
@@ -135,6 +138,9 @@
       <updated>1746680949509</updated>
       <workItem from="1746680950271" duration="2257000" />
       <workItem from="1746683253768" duration="6422000" />
+      <workItem from="1746691953252" duration="1676000" />
+      <workItem from="1746837464084" duration="26000" />
+      <workItem from="1746853536592" duration="248000" />
     </task>
     <servers />
   </component>
