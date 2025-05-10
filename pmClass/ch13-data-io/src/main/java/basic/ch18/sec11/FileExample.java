@@ -23,7 +23,7 @@ public class FileExample {
 
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd a HH:mm");
         for(File file : contents){
-            System.out.printf("%-25s", sdf.format(new java.util.Date(file.lastModified()))); // 수정된 부분
+            System.out.printf("%-25s", sdf.format(new java.util.Date(file.lastModified())));
             if(file.isDirectory()){
                 System.out.printf("%-10s%-20s", "<DIR>", file.getName());
             } else {
